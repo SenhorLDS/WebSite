@@ -1,4 +1,9 @@
 {
+    "video440": {
+        "url": "https://www.youtube.com/watch?v=r2WkEilT0rM",
+        "title": "[BEST🐠] Build a Zoo! 🔥 No Linkvertise! Auto Place / Auto Hatch / Auto Collect! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://kalihub.xyz/loader.lua'))()"
+    },
     "video439": {
         "url": "https://www.youtube.com/watch?v=5hHJ8NKT-WQ",
         "title": "[NEW 🦈] Don't Wake the Brainrots! 🔥 No Linkvertise! Auto Steal / Auto Upgrade! 🔥 PC & Mobile! (2025)",
