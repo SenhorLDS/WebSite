@@ -1,8 +1,13 @@
 {
+    "video443": {
+        "url": "https://www.youtube.com/watch?v=Y7w5P5b6tC8",
+        "title": "[LDS HUB! 💎] Trade a Brainrot 🔥 No Linkvertise! Auto Trade / Auto Collect! 🔥 PC & Mobile! (2025)",
+                "script": ""
+    },
     "video442": {
         "url": "https://www.youtube.com/watch?v=OFNFt0Z6MRE",
         "title": "[NEW 🍓] Grow a Garden! 🔥 No Linkvertise! Auto Plant / Auto Buy / Pets Options 🔥 PC & Mobile! (2025)",
-                "script": "loadstring(game:HttpGet('https://pastebin.com/raw/txWTGFRZ', true))() "
+                "script": "loadstring(game:HttpGet('https://pastebin.com/raw/txWTGFRZ', true))()"
     },
     "video441": {
         "url": "https://www.youtube.com/watch?v=X4xkDzF8GQI",
