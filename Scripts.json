@@ -1,4 +1,9 @@
 {
+    "video447": {
+        "url": "https://www.youtube.com/watch?v=shtSxYvEq7s",
+        "title": "[New 💎] Prospecting 🔥 No Linkvertise! Auto Farm / Auto Sell!! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/TokyoYoo/gga2/refs/heads/main/Trst.lua'))()"
+    },
     "video446": {
         "url": "https://www.youtube.com/watch?v=uMrwVwDRrt0",
         "title": "[HUB 🔫] Hunty Zombie 🔥 No Linkvertise! Auto Attack / Freeze Mobs!! 🔥 PC & Mobile! (2025)",
