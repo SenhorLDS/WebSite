@@ -1,4 +1,9 @@
 {
+    "video446": {
+        "url": "https://www.youtube.com/watch?v=uMrwVwDRrt0",
+        "title": "[HUB 🔫] Hunty Zombie 🔥 No Linkvertise! Auto Attack / Freeze Mobs!! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/language-gui/gui/script_gui_2025-08-22.lua', true))()"
+    },
     "video445": {
         "url": "https://www.youtube.com/watch?v=RRfImGoxUxg",
         "title": "[New 💎] One Block 🔥 No Linkvertise! Auto Kill / Auto Chest! 🔥 PC & Mobile! (2025)",
