@@ -1,4 +1,9 @@
 {
+    "video448": {
+        "url": "https://www.youtube.com/watch?v=PbWNBXTAikE",
+        "title": "[New 🧲] Magnet Fishing 🔥 No Linkvertise! Auto Claim Catch / Auto Buy! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Valkooridian2/MF/main/MagnetFish.lua', true))()"
+    },
     "video447": {
         "url": "https://www.youtube.com/watch?v=shtSxYvEq7s",
         "title": "[New 💎] Prospecting 🔥 No Linkvertise! Auto Farm / Auto Sell!! 🔥 PC & Mobile! (2025)",
