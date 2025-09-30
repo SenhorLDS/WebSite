@@ -1,4 +1,9 @@
 {
+    "video453": {
+        "url": "https://www.youtube.com/watch?v=krLr89ZKtP4",
+        "title": "[HACK! 🔪] Murderers VS Sheriffs DUELS 🔥 No Linkvertise! Kill All / Aim-Bot!  🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/evelynnscripts/Scripts/refs/heads/main/Loader.lua',true))()"
+    },
     "video452": {
         "url": "https://www.youtube.com/watch?v=SBzqH6_eC3w",
         "title": "[LDS HUB! 🌻] Plants Vs Brainrots 🔥 No Linkvertise! Auto Buy / Auto Collect  🔥 PC & Mobile! (2025)",
