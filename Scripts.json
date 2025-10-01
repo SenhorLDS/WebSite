@@ -1,4 +1,9 @@
 {
+    "video454": {
+        "url": "https://www.youtube.com/watch?v=bTm3uzzQnaQ",
+        "title": "[HUB! 🌋] Cut Trees 🔥 No Linkvertise! Auto Chop ALL Tree! / Auto Open Chest!  🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/scriptzzze/CutTreesobfsc/refs/heads/main/obfsc'))()"
+    },
     "video453": {
         "url": "https://www.youtube.com/watch?v=krLr89ZKtP4",
         "title": "[HACK! 🔪] Murderers VS Sheriffs DUELS 🔥 No Linkvertise! Kill All / Aim-Bot!  🔥 PC & Mobile! (2025)",
