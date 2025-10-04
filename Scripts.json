@@ -1,4 +1,9 @@
 {
+    "video456": {
+        "url": "https://www.youtube.com/watch?v=M5qS6dZ-Uig",
+        "title": "[NEW☄️] 99 Nights in the Forest 🔥 No Linkvertise! Bring Itens Fast /  Auto Farm🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua', true))()"
+    },
     "video455": {
         "url": "https://www.youtube.com/watch?v=ICtmuYy-geE",
         "title": "[NEW! 🛡️] Ability Wars 🔥 No Linkvertise! Auto Farm Slap /Target Players Update 🔥 PC & Mobile! (2025)",
