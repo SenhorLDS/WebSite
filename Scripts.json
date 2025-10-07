@@ -1,4 +1,9 @@
 {
+    "video459": {
+        "url": "https://www.youtube.com/watch?v=zDnPEZ_C5Iw",
+        "title": "[HUB! 🐝] Bee Swarm Simulator 🔥 No Linkvertise! Auto Dig / Teleport / No Key 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/xxxrrxsds-art/losehubs/refs/heads/main/BSSBeta.lua'))()"
+    },
     "video458": {
         "url": "https://www.youtube.com/watch?v=B1_9QW3LgVE",
         "title": "[NEW! 📦] Container RNG 🔥 No Linkvertise! Auto Open Containers / Auto Buy 🔥 PC & Mobile! (2025)",
