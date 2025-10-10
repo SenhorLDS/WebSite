@@ -1,4 +1,9 @@
 {
+    "video461": {
+        "url": "https://www.youtube.com/watch?v=IWqidrfF7gg",
+        "title": "[HUB! 🏝️] Fish It! 🔥 No Linkvertise! Auto Fish / Perfect Cast / Teleport 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/tbao143/thaibao/refs/heads/main/TbaoHubFishIt'))()"
+    },
     "video460": {
         "url": "https://www.youtube.com/watch?v=TmUDymnS_BU",
         "title": "[FE! 💎] Build A Cart 🔥 No Linkvertise! Infinite Money!! / No Key 🔥 PC & Mobile! (2025)",
