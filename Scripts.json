@@ -1,4 +1,9 @@
 {
+    "video462": {
+        "url": "https://www.youtube.com/watch?v=8UcZv3SVLIg",
+        "title": "[OP! 🔥] Hypershot 🔥 No Linkvertise! AIMBOT / Silent Aim / FOV Options 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/TheRealAvrwm/Zephyr-V2/refs/heads/main/Hypershot.lua', true))()"
+    },
     "video461": {
         "url": "https://www.youtube.com/watch?v=IWqidrfF7gg",
         "title": "[HUB! 🏝️] Fish It! 🔥 No Linkvertise! Auto Fish / Perfect Cast / Teleport 🔥 PC & Mobile! (2025)",
