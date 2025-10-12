@@ -1,4 +1,9 @@
 {
+    "video463": {
+        "url": "https://www.youtube.com/watch?v=kWdJnxxig7E",
+        "title": "[OP! 🌊] Escape The Tsunami 🔥 No Linkvertise! Auto Farm / INF Wins 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/yeahblxr/Scripts/refs/heads/main/Escape-the-tsunami'))()"
+    },
     "video462": {
         "url": "https://www.youtube.com/watch?v=8UcZv3SVLIg",
         "title": "[OP! 🔥] Hypershot 🔥 No Linkvertise! AIMBOT / Silent Aim / FOV Options 🔥 PC & Mobile! (2025)",
