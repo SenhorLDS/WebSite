@@ -1,4 +1,9 @@
 {
+    "video465": {
+        "url": "https://www.youtube.com/watch?v=AWuH7gFzf0I",
+        "title": "[Update 🎯] BedFight 🔥 No Linkvertise! Melee Aura / AIMBOW! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/BedFight-RayfieldZ-58508'))()"
+    },
     "video464": {
         "url": "https://www.youtube.com/watch?v=8pptm0UZSYM",
         "title": "[LDS HUB! 🎃] Arm Wrestle Simulator 🔥 No Linkvertise! Halloween UPDATE!! 🔥 PC & Mobile! (2025)",
