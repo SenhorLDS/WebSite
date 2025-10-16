@@ -1,4 +1,9 @@
 {
+    "video466": {
+        "url": "https://www.youtube.com/watch?v=HEsGe9Lj5wY",
+        "title": "[OP ⚡] Survive On A Raft 🔥 No Linkvertise! TP Base / Auto Collect Box! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/main/SurviveonaRaft'))()"
+    },
     "video465": {
         "url": "https://www.youtube.com/watch?v=AWuH7gFzf0I",
         "title": "[Update 🎯] BedFight 🔥 No Linkvertise! Melee Aura / AIMBOW! 🔥 PC & Mobile! (2025)",
