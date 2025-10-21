@@ -1,4 +1,9 @@
 {
+    "video470": {
+        "url": "https://www.youtube.com/watch?v=LWucfn2N_TU",
+        "title": "[OP! 🏝️] Build An Island! 🔥 No Linkvertise! Auto Farm / Auto Build! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://cdn.authguard.org/virtual-file/665292410e6f4750b08388f6df56f5f7'))()"
+    },
     "video469": {
         "url": "https://www.youtube.com/watch?v=KFDw-t4kj44",
         "title": "[LDS HUB! 👻] Pet Simulator 99 🔥 No Linkvertise! Halloween UPDATE! Keyless 🔥 PC & Mobile! (2025)",
