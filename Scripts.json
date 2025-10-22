@@ -1,4 +1,9 @@
 {
+    "video471": {
+        "url": "https://www.youtube.com/watch?v=LDRqmmyCSqU",
+        "title": "[HUB 🎃] Shoot a Brainrot!! 🔥 No Linkvertise! Auto Shot / Auto Buy! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/A1ternative-hub/script/refs/heads/main/tu'))()"
+    },
     "video470": {
         "url": "https://www.youtube.com/watch?v=LWucfn2N_TU",
         "title": "[OP! 🏝️] Build An Island! 🔥 No Linkvertise! Auto Farm / Auto Build! 🔥 PC & Mobile! (2025)",
