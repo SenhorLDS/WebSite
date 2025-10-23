@@ -1,4 +1,9 @@
 {
+    "video472": {
+        "url": "https://www.youtube.com/watch?v=nE46P2vLT5o",
+        "title": "[OP 🎃] Dandy's World! 🔥 No Linkvertise! Auto Skip Task / INF Jump! 🔥 PC & Mobile! (2025)",
+                "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/jwaltson91/Pleiadex/refs/heads/main/dandy.lua'))()"
+    },
     "video471": {
         "url": "https://www.youtube.com/watch?v=LDRqmmyCSqU",
         "title": "[HUB 🎃] Shoot a Brainrot!! 🔥 No Linkvertise! Auto Shot / Auto Buy! 🔥 PC & Mobile! (2025)",
